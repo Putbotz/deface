@@ -22,7 +22,7 @@ h = '\033[32m'
 m = '\033[00m'
 
 def x(tetew):
-   ipt = ''
+   ipt = 'putxd.html'
    if sys.version_info.major > 2:
       ipt = input(tetew)
    else:
